@@ -23,7 +23,7 @@ a{
  linear-gradient(
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
-    ),   url(back2.png);
+    ),   url("https://burst.shopifycdn.com/photos/notebook-and-coffee_373x.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
      -webkit-background-size: cover;
@@ -238,7 +238,7 @@ input#email:focus{
  linear-gradient(
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
-    ),   url(back2.png);
+    ),   url("https://burst.shopifycdn.com/photos/notebook-and-coffee_373x.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
