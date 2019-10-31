@@ -31,11 +31,12 @@ html,body{
 .content h1{
   font-family: 'Century Gothic',sans-serif;
   color: #f9f3f4;
-  font-size: 500%;
+  font-size: 800%;
   text-shadow: 0 0 300px #000;
 }
 
 .content .btn{
+  font-size: 300%;
   border-radius: 9px;
   color: #f9f3f4;
   text-decoration: none;
